@@ -1,0 +1,3 @@
+Skipping image OS validation for hb__6cd3d8d758f101bbacde71b32c958689: docker inspect returned 1
+Collecting main service artifacts
+Trial log-report__84uS6XY failed: No reward file found at jobs\2026-07-11__14-30-30\log-report__84uS6XY\verifier\reward.txt or jobs\2026-07-11__14-30-30\log-report__84uS6XY\verifier\reward.json
